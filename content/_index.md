@@ -225,6 +225,8 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+      view: showcase
+      flip_alt_rows: true
   # - block: collection
   #   id: featured
   #   content:

@@ -22,7 +22,6 @@ url_code: ''
 url_pdf: 'https://drive.google.com/file/d/1kgtDwmpFLoCpl_LpYuNLBcjBW7pEC-3T/view?usp=share_link'
 url_slides: ''
 url_video: ''
-
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
