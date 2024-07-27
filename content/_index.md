@@ -215,6 +215,16 @@ sections:
           organization_url: https://www.coursera.org
           title: Structuring Machine Learning Projects
           url: ''
+        - certificate_url: https://coursera.org/share/ee86f0356a45d2cbed6cd9f8d7751876
+          date_end: ''
+          date_start: '2024-07-05'
+          description: ''
+          icon: coursera
+          organization: coursera
+          organization_url: https://www.coursera.org
+          title: Object Oriented Programming with C++
+          url: ''
+           
     design:
       columns: '2'
   - block: markdown
