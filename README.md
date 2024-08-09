@@ -7,4 +7,4 @@ Welcome to my Gihub Profile.
 🦾 My undergraduate degree was in Mechanical Engineering from IIT (BHU) Varanasi.  
 
 
-🌐 [Portfolio](https://mohitydv09.github.io/mohitydv09/)  | 💼 [LinkedIn](https://www.linkedin.com/in/mohitydv09/) | 📬 [yadav171@umn.edu](mailto:yadav171@umn.edu)
+🌐 [Portfolio](https://mohitydv09.github.io/mohityadav/)  | 💼 [LinkedIn](https://www.linkedin.com/in/mohitydv09/) | 📬 [yadav171@umn.edu](mailto:yadav171@umn.edu)
